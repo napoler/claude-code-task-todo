@@ -14,3 +14,7 @@ Thumbs.db
 # ========== IDE ==========
 .idea/
 .vscode/
+
+# ========== 配置 ==========
+settings.json
+settings.json.backup
